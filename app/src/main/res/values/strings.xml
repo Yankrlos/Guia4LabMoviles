@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guia4LabMoviles</string>
+    <string name="Datos">Mis datos</string>
+    <string name="nombre">Leonel Jancarlos Garcia Flores</string>
+    <string name="codigo">GF16-I04-001</string>
+    <string name="correlativo">11</string>
+    <string name="ValidarNombre">Ingrese el nombre</string>
+    <string name="ValidarOrganizacion">Ingrese la organizacion</string>
+    <string name="ValidarTelefono">Ingrese telefono</string>
+    <string name="Tamanio">Tamaño 8 caracteres</string>
+</resources>
